@@ -1,154 +1,83 @@
-<h1 align="center">Hi 👋, I'm Faizan Baig</h1>
-<h3 align="center">Full Stack Developer • AI Automation • SaaS Builder</h3>
+<div align="center">
 
-<p align="center">
-Building useful software with AI, PHP, TypeScript, React & Cloud Technologies.
-</p>
+```
+faizan@github:~$ whoami
+```
 
-<p align="center">
-  <a href="https://faizan.is-a.dev">
-    <img src="https://img.shields.io/badge/Portfolio-faizan.is--a.dev-blue?style=for-the-badge">
-  </a>
-  <a href="mailto:faizanbaig.com@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=faizan-2005&style=for-the-badge">
-</p>
+# Faizan Baig
 
----
+**Full Stack Developer · AI Automation · SaaS Builder**
 
-# 🚀 About Me
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+automated+pipelines+that+run+themselves;PHP+%2B+Go+%2B+Python+%2B+React;Shipping+SaaS+products+solo)
 
-- 💻 Full Stack Developer
-- 🤖 Building AI-powered applications & automation systems
-- ⚡ Love creating SaaS products
-- 🌐 Backend APIs, VPS Deployment & Cloud Infrastructure
-- 📹 Exploring AI content automation
-- 📍 Madhya Pradesh, India
+[![Portfolio](https://img.shields.io/badge/faizan.is--a.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://faizan.is-a.dev)
+[![Email](https://img.shields.io/badge/connect%40faizanbaig.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:connect@faizanbaig.com)
+[![X](https://img.shields.io/badge/@faizanbaig01-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/faizanbaig01)
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+### `$ cat about.md`
 
-### Languages
+21, based in India. I build things end to end — backend, frontend, deployment, and whatever automation glue holds it together. Most of what I ship is solo: no team, no handoff, just a VPS and a deadline I set myself.
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,ts,js,html,css,nodejs,python" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vercel" />
-</p>
+Currently deep in AI-driven content automation and payout infrastructure — pipelines that generate, process, and ship without me touching them daily.
 
 ---
 
-# 🚀 Featured Projects
+### `$ ls projects/`
 
-### 🧠 GeniPolish
+**[EarningXLifafa](https://earningxlifafa.com/)** — `active`
+Crowdfunding + reward distribution platform. Creators fund lifafa/giveaway campaigns, users complete tasks and redeem via access codes. Built with a wallet ledger, UPI/bank withdrawal pipeline, and full transaction tracking.
+`React` `REST API` `MySQL`
 
-AI-powered writing enhancement tool built with TypeScript.
+**[GeniPolish](https://faizan.is-a.dev/GeniPolish)** — `active`
+Open-source tool that strips watermarks from Gemini-generated images in ~1-2 seconds. No bloat, no upload-and-wait — built for speed.
+`TypeScript` `JavaScript`
 
-### ☁️ TDrive
-
-Modern cloud storage & file management project.
-
-### 💰 Affiliate
-
-PHP based affiliate management platform.
-
-### 🌐 Portfolio
-
-Personal website showcasing projects and development work.
+**[Affiliate Panel](https://github.com/faizan-2005/affiliate)** — `active`
+Self-hosted affiliate tracking system, built as an open-source alternative to Offer18. Click tracking, postback handling, campaign management, reporting.
+`React` `REST API` `MySQL`
 
 ---
 
-# 📈 GitHub Stats
+### `$ cat stack.json`
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizan-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-2005&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+```json
+{
+  "languages":  ["PHP", "TypeScript", "JavaScript", "Python", "Go"],
+  "frontend":   ["React", "Next.js", "Vite", "Tailwind"],
+  "backend":    ["Node.js", "Express", "PHP"],
+  "database":   ["MySQL", "MongoDB", "Firebase", "Supabase"],
+  "infra":      ["Docker", "Nginx", "Linux VPS", "Cloudflare"],
+  "currently":  ["FFmpeg pipelines", "NVENC GPU encoding", "LLM API automation"]
+}
+```
 
 ---
 
-# 📊 Activity Graph
+### `$ git log --stats`
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-2005&theme=tokyo-night"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=faizan-2005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-2005&theme=github-dark-blue&hide_border=true&background=0d1117"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-2005&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
 
-# 🌎 Connect With Me
-
-<p align="left">
-
-<a href="https://faizan.is-a.dev">
-Portfolio
-</a>
-
-•
-
-<a href="mailto:faizanbaig.com@gmail.com">
-Email
-</a>
-
-•
-
-<a href="https://github.com/faizan-2005">
-GitHub
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💡 Current Focus
+<div align="center">
 
-- 🤖 AI Automation
-- 🚀 SaaS Products
-- ☁️ Cloud Infrastructure
-- 🔥 API Development
-- 🧠 LLM Integrations
-- 📹 AI Content Systems
+`connect --list`
 
----
+[GitHub](https://github.com/faizan-2005) · [LinkedIn](https://linkedin.com/in/faizanbaig01) · [X](https://x.com/faizanbaig01) · [Instagram](https://instagram.com/mughal_faizan07) · [Resume](https://faizan.is-a.dev/resume/)
 
-> "Developer under development."
+**developer under development.**
+
+</div>
