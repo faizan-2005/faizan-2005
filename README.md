@@ -18,9 +18,9 @@ faizan@dev:~$ neofetch
     \   /        ──────────
   .-'-'-'-.      OS: Windows + Ubuntu
  /  ___  ___\    Shell: bash / powershell
-| |  o  o | |    Uptime: 3+ years shipping solo
- \  \___/  /     Focus: AI automation, SaaS, backend infra
-  '-.___.-'      
+| |  o  o | |    
+ \  \___/  /     Uptime: 3+ years shipping solo
+  '-.___.-'      Focus: AI automation, SaaS, backend infra
 ```
 
 </td>
@@ -87,13 +87,24 @@ Automated content pipelines, video processing systems, and backend infra project
 </tr>
 </table>
 
+## `~/flappy.sh`
+
+<div align="center">
+
+Bored? Beat my high score.
+
+[![Play Flappy](https://img.shields.io/badge/▶_PLAY_NOW-flappy.sh-58A6FF?style=for-the-badge&logoColor=white)](https://faizan.is-a.dev/flappy)
+
+</div>
+
 ## `~/stack`
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=php,ts,js,py,go&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" /><br><br>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github&theme=dark" />
 
 </div>
 
