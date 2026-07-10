@@ -18,9 +18,9 @@ faizan@dev:~$ neofetch
     \   /        ──────────
   .-'-'-'-.      OS: Windows + Ubuntu VPS
  /  ___  ___\    Shell: bash / powershell
-| |  o  o | |    GPU: RTX 4080
- \  \___/  /     Uptime: 3+ years shipping solo
-  '-.___.-'      Focus: AI automation, SaaS, backend infra
+| |  o  o | |    Uptime: 3+ years shipping solo
+ \  \___/  /     Focus: AI automation, SaaS, backend infra
+  '-.___.-'      
 ```
 
 </td>
