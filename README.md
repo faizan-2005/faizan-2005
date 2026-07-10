@@ -93,8 +93,7 @@ Automated content pipelines, video processing systems, and backend infra project
 
 <img src="https://skillicons.dev/icons?i=php,ts,js,py,go&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github&theme=dark" />
+
 
 </div>
 
