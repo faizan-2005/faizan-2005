@@ -16,7 +16,7 @@ faizan@dev:~$ neofetch
      .-.
     /   \        faizan@dev
     \   /        ──────────
-  .-'-'-'-.      OS: Windows + Ubuntu VPS
+  .-'-'-'-.      OS: Windows + Ubuntu
  /  ___  ___\    Shell: bash / powershell
 | |  o  o | |    Uptime: 3+ years shipping solo
  \  \___/  /     Focus: AI automation, SaaS, backend infra
