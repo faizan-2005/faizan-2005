@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-2005&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-2005" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://faizan.is-a.dev](faizan.is-a.dev)
+- 👨‍💻 All of my projects are available at [faizan.is-a.dev](https://faizan.is-a.dev)
 
-- 📝 I regularly write articles on [https://faizan.is-a.dev/blog](faizan.is-a.dev/blog)
+- 📝 I regularly write articles on [faizan.is-a.dev/blog](https://faizan.is-a.dev/blog)
 
 - 📫 How to reach me **faizanbaig.com@gmail.com**
 
-- 📄 Know about my experiences [https://faizan.is-a.dev/resume](faizan.is-a.dev/resume)
+- 📄 Know about my experiences [aizan.is-a.dev/resume](https://faizan.is-a.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
